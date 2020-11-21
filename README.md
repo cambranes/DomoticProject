@@ -3,5 +3,5 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/cambranes/DomoticProject/blob/main/assets/headOne.png">
+    <img src="https://github.com/cambranes/DomoticProject/blob/main/assets/headTwo.png">
 </p>
